@@ -1,8 +1,10 @@
 # 😎 Wesley Dela Cruz
 
-**`(Entrepreneur/Developer)`**
+**`(Entrepreneur/Developer)`** 
 
 As a software engineer with healthcare experience, I am passionate about tackling healthcare challenges using innovative technology. I enjoy building software projects with real societal impact, drawing from my background at a healthcare robotics startup, training as a medic, and collaborating with medical professionals.
+
+On the side, I also run my own e-commerce brand in the home & lifestyle category.
 
 ---
 
@@ -25,10 +27,9 @@ As a software engineer with healthcare experience, I am passionate about tacklin
 <!-- [website]: https://fkcodes.com -->
 <!-- [website]: https://linkedin.com/in/wesleybldc -->
 #
-- 🔭 I’m currently working on finding a software engineer internship at a healthcare startup based in san francisco as part of my nus overseas college silicon valley program. 
+- 🔭 I’m currently finding a software engineer internship at a healthcare startup based in san francisco as part of my nus overseas college silicon valley program. 
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about entrepreneurship, computer science at nus, healthcare
-<br />
 - 📫 How to reach me: wesley@u.nus.edu

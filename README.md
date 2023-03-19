@@ -4,7 +4,7 @@
 
 As a software engineer with healthcare experience, I am passionate about tackling healthcare challenges using innovative technology. I enjoy building software projects with real societal impact, drawing from my background at a healthcare robotics startup, training as a medic, and collaborating with medical professionals.
 
-#
+---
 
 ### 🧰 Languages and Tools
 
@@ -20,12 +20,11 @@ As a software engineer with healthcare experience, I am passionate about tacklin
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 
-#
-<!-- [website]: https://fkcodes.com -->
-<!-- [website]: https://linkedin.com/in/wesleybldc -->
-
 <br />
 
+<!-- [website]: https://fkcodes.com -->
+<!-- [website]: https://linkedin.com/in/wesleybldc -->
+#
 - 🔭 I’m currently working on finding a software engineer internship at a healthcare startup based in san francisco as part of my nus overseas college silicon valley program. 
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

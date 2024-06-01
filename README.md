@@ -27,9 +27,10 @@ On the side, I also run my own e-commerce brand in the home & lifestyle category
 <!-- [website]: https://fkcodes.com -->
 <!-- [website]: https://linkedin.com/in/wesleybldc -->
 #
-- 🔭 Currently based in SF, working as a product manager at an insurance tech startup. 
+- 🔭 Currently based in SF, working as a product manager at an insurance tech startup.
+- 💬 Ask me about entrepreneurship, computer science at nus, healthcare
+- 📫 How to reach me: wesley@u.nus.edu
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about entrepreneurship, computer science at nus, healthcare
-- 📫 How to reach me: wesley@u.nus.edu
+

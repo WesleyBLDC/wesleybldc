@@ -27,7 +27,7 @@ On the side, I also run my own e-commerce brand in the home & lifestyle category
 <!-- [website]: https://fkcodes.com -->
 <!-- [website]: https://linkedin.com/in/wesleybldc -->
 #
-- 🔭 I’m currently finding a software engineer internship at a healthcare startup based in san francisco as part of my nus overseas college silicon valley program. 
+- 🔭 Currently based in SF, working as a product manager at an insurance tech startup. 
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->

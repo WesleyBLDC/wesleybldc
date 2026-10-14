@@ -1,36 +1,27 @@
-# 😎 Wesley Dela Cruz
+<h2 align="center">hi, i'm wesley dela cruz 👋</h2>
 
-**`(Entrepreneur/Developer)`** 
+<p align="center">
+  full stack software engineer in san francisco, vibe coding at autocomplete (ai insurance tech)
+</p>
 
-As a software engineer with healthcare experience, I am passionate about tackling healthcare challenges using innovative technology. I enjoy building software projects with real societal impact, drawing from my background at a healthcare robotics startup, training as a medic, and collaborating with medical professionals.
+<p align="center">
+  <a href="https://wesleybldc.com">website</a> ·
+  <a href="https://x.com/wesleybldc">x</a> ·
+  <a href="https://www.linkedin.com/in/wesleybldc">linkedin</a> ·
+  <a href="https://www.instagram.com/wesleybldc/">instagram</a> ·
+  <a href="mailto:wesleybldc+github@gmail.com">email</a>
+</p>
 
-On the side, I also run my own e-commerce brand in the home & lifestyle category.
+### 🌱 lately
 
----
+- 🛠️ shipping ai products and tools for insurance infrastructure
+- 🏠 running [acorn alley](https://wesleybldc.notion.site/acorn-alley), a 10-person hacker house in sf
+- 🍃 komorebi yama, a six-figure home & lifestyle dtc brand i started as a college freshman
+- 🏆 hackathons: best ai voice agent (vapi x speechmatics), 3rd overall at calhacks, sponsor prizes at treehacks and pennapps
+- 🩺 ex robotics/hardware, ex army medic, nus computer science
 
-### 🧰 Languages and Tools
+### 🧰 stack
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img src="https://skillicons.dev/icons?i=py,ts,react,django,postgres,redis,aws,gcp,docker,kubernetes,terraform,githubactions&perline=12" alt="python, typescript, react, django, postgres, redis, aws, gcp, docker, kubernetes, terraform, github actions" />
 
-<br />
-
-<!-- [website]: https://fkcodes.com -->
-<!-- [website]: https://linkedin.com/in/wesleybldc -->
-#
-- 🔭 Currently based in SF, working as a product manager at an insurance tech startup.
-- 💬 Ask me about entrepreneurship, computer science at nus, healthcare
-- 📫 How to reach me: wesley@u.nus.edu
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
-
+<sub>applied ai: openai · anthropic · gemini · agent orchestration · tool calling · evals · rag</sub>
